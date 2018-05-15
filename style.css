@@ -4,5 +4,7 @@ h1{
 }
 p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12px;
+}
+h3.section{
+   font-family: 'Times New Roman', Times, serif;
 }
